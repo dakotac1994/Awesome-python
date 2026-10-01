@@ -1,0 +1,16 @@
+# lychee configuration for awesome-python
+# Excludes are regexes — domain-bare patterns cover www/subdomains.
+
+exclude = [
+  # ReadTheDocs aggressively 429-throttles automated link checkers from CI
+  # runners. All RTD links were verified live during research (2026-09-30).
+  "readthedocs\\.io",
+  # Small third-party docs host (arq docs); flaky from CI runners.
+  # Verified live 2026-09-30.
+  "helpmanual\\.io",
+]
+
+# Be lenient with transient failures but strict about real breakage
+max_retries = 2
+timeout = 20
+accept = [200, 201, 202, 203, 204, 206]
