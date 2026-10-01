@@ -214,6 +214,7 @@ More curated lists by the same author:
 - [Awesome-diagram-tool](https://github.com/dakotac1994/Awesome-diagram-tool) — diagramming and visualization tools..
 - [Awesome-chrome-extension](https://github.com/dakotac1994/Awesome-chrome-extension) — Chrome/Chromium browser extensions..
 - [Awesome-db](https://github.com/dakotac1994/Awesome-db) — database engines by data model..
+- [Awesome-rust](https://github.com/dakotac1994/Awesome-rust) — the Rust language ecosystem..
 - [awesome-cli](https://github.com/dakotac1994/awesome-cli) — the broad CLI/TUI tools list..
 - [awesome-oss-cli](https://github.com/dakotac1994/awesome-oss-cli) — the OSS-only CLI/TUI list..
 - [awesome-oss-macos](https://github.com/Awesome-llms-labs/awesome-oss-macos) — open-source macOS apps..
